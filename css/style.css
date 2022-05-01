@@ -144,7 +144,7 @@ a.card {
 }
 
 .quem_somos {
-    background-repeat: round;
+    background-repeat: space;
     background-image: linear-gradient(rgba(246, 247, 204, 0.5), rgba(252, 98, 98, 0.171)), url("https://raw.githubusercontent.com/sho0terbr/site2/main/img/fundo_domira.jpg");
     background-size: auto;
     display: flex;
