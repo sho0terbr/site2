@@ -145,7 +145,7 @@ a.card {
 
 .quem_somos {
     background-repeat: round;
-    background-image: url("	https://raw.githubusercontent.com/sho0terbr/site2/main/img/fundo_domira.jpg");
+    background-image: linear-gradient(rgba(247, 222, 113, 0.5), rgba(247, 56, 56, 0.4)), url("	https://raw.githubusercontent.com/sho0terbr/site2/main/img/fundo_domira.jpg");
     background-size: auto;
     display: flex;
 
@@ -167,8 +167,13 @@ section.quem_somos {
         padding-top: 20px;
         padding-bottom: 0px;
         margin-top: -35px;
-        height: 670px;
-    }}
+        height: 695px;
+        
+    }
+    p.texto {
+        text-align: justify;
+    }
+}
 
 
 
