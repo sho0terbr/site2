@@ -247,7 +247,7 @@ button.btn.btn-warning {
         z-index: 1000;
     }
 
-    @media only screen and (max-width:390px) {
+    @media only screen and (max-width:420px) {
         .wathsapp {
         position: fixed;
         width: 60px;
