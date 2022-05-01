@@ -145,7 +145,7 @@ a.card {
 
 .quem_somos {
     background-repeat: round;
-    background-image: url("https://raw.githubusercontent.com/sho0terbr/site2/main/img/fundo_domira.jpg");
+    background-image: url("./img/fundo_domira.jpg");
     background-size: auto;
     display: flex;
 
